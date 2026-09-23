@@ -45,7 +45,16 @@
    font-size: 24px;
  }
 
- .welcome h2 {
+.next_championship {
+  color:#d0a933;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+ h2 {
    font-size: 32px;
    font-weight: 900;
  }
@@ -66,3 +75,13 @@
    padding: 32px;
    font-weight: 600;
  }
+
+ .training {
+  color:#d0a933;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+ }
+ 
